@@ -1,0 +1,34 @@
+.FirstPageHeader-FirstPageHeaderContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.FirstPageHeader-inputForSearch{
+    margin-right: 30px;
+}
+
+.FirstPageHeader-topSearchesSpan{
+    margin-right: 65px;
+    color: darkblue
+}
+
+.FirstPageHeader-topSearchesSpan:hover{
+    cursor: pointer;    
+    text-decoration: underline;
+    color: blue
+}
+
+.FirstPageHeader-closeModalSpan{
+    display: flex;
+    justify-content: center;
+}
+
+.FirstPageHeader-closeModalSpan:hover{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;    
+    text-decoration: underline;
+}
